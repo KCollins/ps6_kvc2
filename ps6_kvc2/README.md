@@ -1,8 +1,6 @@
 # ps6_kvc2
 
-Take the plane-fitting example from example_eigen package and implement it as a class.
-Compile the result as a library.
-Illustrate use of this library from a separate main program.
+Includes a library for 3 moves on Baxter. The library is used by the "ps6_kvc2_usage" package.
 
 ## Example usage
 

@@ -1,4 +1,6 @@
 // "Copyright [2015] <Kristina Collins>"  [legal/copyright]
+/// Kristina Collins, kvc2@case.edu.
+/// Executes the 3 moves from the library in ps6_kvc2. 
 #include <ros/ros.h>
 #include <ps6_kvc2/my_interesting_moves.h>
 

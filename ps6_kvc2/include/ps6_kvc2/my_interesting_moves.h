@@ -1,4 +1,7 @@
 // "Copyright [2015] <Kristina Collins>"  [legal/copyright]
+/// Kristina Collins, kvc2@case.edu.
+/// This is the header file for the library of moves. 
+///
 
 #ifndef PS6_KVC2_MY_INTERESTING_MOVES_H
 #define PS6_KVC2_MY_INTERESTING_MOVES_H

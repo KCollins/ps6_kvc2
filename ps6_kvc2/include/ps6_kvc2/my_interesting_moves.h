@@ -1,3 +1,4 @@
+// "Copyright [year] <Copyright Owner>"  [legal/copyright]
  /**
 @file
 @brief A library of moves for Baxter. This file just contains declarations. 

@@ -1,3 +1,4 @@
+# "Copyright [year] <Copyright Owner>"  [legal/copyright]
 # ps6_kvc2
 
 Includes a library for 3 moves on Baxter. The library is used by the "ps6_kvc2_usage" package.

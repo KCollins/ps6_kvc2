@@ -1,7 +1,9 @@
 // Copyright [2015] <Kristina Collins> [legal/copyright]
-/// Kristina Collins, kvc2@case.edu
-/// This node defines the motions in the library as a series of positions, and builds trajectories based on them.
-/// Each position is described by a vector of length 7, in which each number represents a joint on Baxter's right arm from shoulder to wrist.
+
+ /**
+@file
+@brief This node defines the motions in the library as a series of positions, and builds trajectories based on them. Each position is described by a vector of length 7, in which each number represents a joint on Baxter's right arm from shoulder to wrist.
+ */
 
 #include <ros/ros.h>
 #include <actionlib/client/simple_action_client.h>

@@ -9,6 +9,4 @@ In a series of terminals:
 -rosrun baxter_traj_streamer traj_interpolator_as
 -rosrun ps6_kvc2_usage ps6_kvc2
 -View simulation in Gazebo 
-
-## Running tests/demos
     
